@@ -120,5 +120,5 @@ docker-compose exec web pip freeze > requirements.txt
 ## Автор
 
 M0rnstar 
-github.com/M0rnstar
+https://github.com/M0rnstar
 ---
